@@ -1,0 +1,2 @@
+# WebPage
+One static WebPage
